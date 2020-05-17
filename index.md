@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Book</title>
+	<link rel="stylesheet" type="text/css" href="titi.css">
+</head>
+<body>
+	<header class="header fixedWidth">
+		<div class="nav">
+			<p>
+				<strong><span style="font-size: 20px;">SUBSCRIBE</span></strong> For more Delicious recipes!
+			</p>
+
+			<div class="floatRight">
+				<form method="POST">
+					<input type="email" name="email" placeholder="E Mail Address">
+					<button>Yes!!</button>
+				</form>
+				
+			</div>
+			<!-- <h3 class="floatRight" style="position: relative;top: 0px; right: 20px;">
+				Call us on 09035839025
+			</h3>
+ -->
+				
+		</div>
+			
+
+	</header>
+	<h1>
+		CHEFLOLASKITCHEN
+	</h1>
+	<section class="section1 fixedWidth">
+		<ul>
+			
+			<div class="section fixedWidth">
+				<a href="" style="text-decoration: none;">
+					<style>
+						li:hover{
+							color: green;
+						}
+					</style>
+					<div class="list">
+					<li>ALL RECIPES</li>
+					<li>LUNCH</li>
+					<li>DINNER</li>
+					<li>BAKING</li>
+					<li>AFRICAN RECIPES</li>
+					<li>SOUP &amp STEWS</li>
+					<li>ABOUT</li>
+						
+				</div>
+				</a>
+				
+				
+				<div class="button">
+					<form>
+						<input type="text" name="text" placeholder="Search">
+					</form>
+				</div>
+			</div>
+		</ul>
+	</section>
+	<section class="section1 fixedWidth">
+		<h2 style="text-align: center;">LOLA'S TOP PICKS
+		<span style="float: right; padding-right: 50px;">HELLO!</span>
+		</h2>
+		<div class="box">
+			<div class="image">
+				<a href="about.html" target="_blank">
+					<img src="FB_IMG_14902935096978192.JPG" style="width: 150px; height: 200px;">
+					<img src="FB_IMG_14902935306999247.JPG" style="width: 150px; height: 200px;">
+					<img src="FB_IMG_14902935437358607.JPG" style="width: 150px; height: 200px;">
+					<img src="FB_IMG_14902935690796825.JPG" style="width: 150px; height: 200px;">
+				</a>
+				
+			</div>
+			<p text>hi i'm lola a wife, a mother and a classically trained cook.I am a geologist by the books an entrepreneur by career</p>
+		</div>
+	</section>
+	
+</body>
+</html>
